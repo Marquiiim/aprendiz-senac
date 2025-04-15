@@ -1,0 +1,29 @@
+.nav_container {
+  background-color: rgb(248, 153, 29);
+  width: 100%;
+}
+.nav_container .nav_content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0.6rem;
+}
+.nav_container .nav_content img {
+  height: 6.5rem;
+  width: auto;
+}
+.nav_container .nav_content .list_nav {
+  display: flex;
+  gap: 5rem;
+}
+.nav_container .nav_content .list_nav a {
+  padding: 0.7rem;
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: 0.3s ease-in-out;
+  border-bottom: 2.5px solid transparent;
+}
+.nav_container .nav_content .list_nav a:hover {
+  border-bottom: 2.5px solid rgb(0, 51, 102);
+}/*# sourceMappingURL=Navbar.module.css.map */

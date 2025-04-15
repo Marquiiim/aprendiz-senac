@@ -1,0 +1,30 @@
+.container_home {
+    width: 100%;
+    margin-top: 3rem;
+    
+    span {
+        color: rgb(248, 153, 29);
+    }
+    
+    .content_home {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 3rem;
+
+        .text_home {
+            text-align: center;
+
+            h1 {
+                font-size: 6rem;
+
+            }
+
+            p {
+                font-weight: 500;
+                max-width: 20rem;
+                text-align: left;
+            }
+        }
+    }
+}
