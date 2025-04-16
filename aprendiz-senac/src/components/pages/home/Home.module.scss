@@ -12,8 +12,12 @@
         align-items: center;
         gap: 3rem;
 
+        img {
+            height: 30rem;
+        }
+
         .text_home {
-            text-align: center;
+            text-align: left;
 
             h1 {
                 font-size: 6rem;
@@ -23,7 +27,6 @@
             p {
                 font-weight: 500;
                 max-width: 20rem;
-                text-align: left;
             }
         }
     }

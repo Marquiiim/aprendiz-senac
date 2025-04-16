@@ -1,0 +1,38 @@
+.integrantes_container {
+    height: 100%;
+    padding: 1rem 0 6rem 0;
+
+    .integrantes_content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        gap: 3rem;
+    }
+
+    hr {
+        border: none;
+        height: 1px;
+        width: 90%;
+        background-color: rgb(140, 140, 140)
+    }
+
+    .dev_project {
+
+        img {
+            border-radius: 100%;
+            height: 20rem;
+        }
+    }
+
+    .integrantes_title {
+        font-size: 2rem;
+    }
+
+    .integrantes_list {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 4rem;
+    }
+}

@@ -13,7 +13,7 @@ function Navbar() {
                     <Link to='/'>
                         Apresentação
                     </Link>
-                    <Link to=''>
+                    <Link to='/integrantes'>
                         Integrantes
                     </Link>
                     <Link to=''>

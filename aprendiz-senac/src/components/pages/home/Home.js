@@ -1,5 +1,5 @@
 import styles from './Home.module.css'
-import Lorax from '../../../assets/loraxSenac.png'
+import Lorax from '../../../assets/lorax SENAC.png'
 
 function Home() {
 
