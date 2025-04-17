@@ -1,6 +1,6 @@
 .integrantes_container {
   height: 100%;
-  padding: 1rem 0 6rem 0;
+  padding: 0.8rem 0 6rem 0;
 }
 .integrantes_container .integrantes_content {
   display: flex;
@@ -10,20 +10,30 @@
   text-align: center;
   gap: 3rem;
 }
-.integrantes_container hr {
+.integrantes_container .integrantes_content hr {
   border: none;
   height: 1px;
   width: 90%;
   background-color: rgb(140, 140, 140);
 }
-.integrantes_container .dev_project img {
+.integrantes_container .integrantes_content .dev_project img {
   border-radius: 100%;
   height: 20rem;
 }
-.integrantes_container .integrantes_title {
+.integrantes_container .integrantes_content .dev_project h2 {
+  letter-spacing: 1px;
+  color: #2c3e50;
   font-size: 2rem;
 }
-.integrantes_container .integrantes_list {
+.integrantes_container .integrantes_content .dev_project p {
+  letter-spacing: 1px;
+}
+.integrantes_container .integrantes_content .integrantes_title {
+  letter-spacing: 2px;
+  color: #2c3e50;
+  font-size: 2.5rem;
+}
+.integrantes_container .integrantes_content .integrantes_list {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 4rem;

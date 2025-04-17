@@ -1,0 +1,17 @@
+.block_container {
+  width: 100%;
+}
+.block_container .block_content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem;
+}
+.block_container .block_content .block_text {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 1rem;
+  width: 50%;
+}/*# sourceMappingURL=Block.module.css.map */

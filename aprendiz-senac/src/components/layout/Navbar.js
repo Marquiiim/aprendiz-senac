@@ -16,7 +16,7 @@ function Navbar() {
                     <Link to='/integrantes'>
                         Integrantes
                     </Link>
-                    <Link to=''>
+                    <Link to='/podcasts'>
                         Podcasts
                     </Link>
                 </ul>
