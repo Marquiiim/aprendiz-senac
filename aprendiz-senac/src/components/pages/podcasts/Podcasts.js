@@ -13,43 +13,43 @@ function Podcasts() {
 
                 <hr />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='1 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='2 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='3 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='4 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='5 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='6 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='7 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='8 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='9 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
 
-                <Block titulo='Exemplo de vídeo'
+                <Block titulo='10 Episódio - Aprendizagem'
                     sinopse='A aprendizagem é uma jornada contínua que nos transforma a cada novo conhecimento adquirido. Como uma semente que brota, ela requer paciência, dedicação e terreno fértil para florescer, Os erros não são fracassos, mas sim degraus essenciais nesse processo. A verdadeira sabedoria surge quando abraçamos a curiosidade e encontramos significado no que aprendemos, conectando novas ideias ao que já conhecemos.'
                     link='https://www.youtube.com/embed/RuX6Rnv4Svk' />
             </div>
