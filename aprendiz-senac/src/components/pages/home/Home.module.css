@@ -1,26 +1,36 @@
 .container_home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8rem;
   width: 100%;
-  margin-top: 3rem;
-}
-.container_home span {
-  color: rgb(248, 153, 29);
 }
 .container_home .content_home {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 3rem;
+  text-align: center;
 }
-.container_home .content_home img {
-  height: 30rem;
+
+.text_home {
+  text-align: center;
 }
-.container_home .content_home .text_home {
-  text-align: left;
-}
-.container_home .content_home .text_home h1 {
-  font-size: 6rem;
-}
-.container_home .content_home .text_home p {
+.text_home h2 {
   font-weight: 500;
-  max-width: 20rem;
+  font-size: 2.5rem;
+  letter-spacing: 4px;
+}
+.text_home h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: rgb(248, 153, 29);
+  font-size: 5rem;
+  letter-spacing: 4px;
+  padding-bottom: 0.1rem;
+  margin-bottom: 0.9rem;
+  border-bottom: 2px solid rgb(248, 153, 29);
+}
+.text_home p {
+  font-weight: 500;
+  font-size: 1rem;
 }/*# sourceMappingURL=Home.module.css.map */

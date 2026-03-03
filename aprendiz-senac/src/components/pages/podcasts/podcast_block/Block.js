@@ -1,6 +1,6 @@
 import styles from './Block.module.css'
 
-function Block({ link, titulo, sinopse}) {
+function Block({ link, titulo, sinopse }) {
 
     return (
         <section className={styles.block_container}>

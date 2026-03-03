@@ -18,12 +18,12 @@
 }
 .integrantes_container .integrantes_content .dev_project img {
   border-radius: 100%;
-  height: 20rem;
+  height: 15rem;
 }
 .integrantes_container .integrantes_content .dev_project h2 {
   letter-spacing: 1px;
   color: #2c3e50;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .integrantes_container .integrantes_content .dev_project p {
   letter-spacing: 1px;
@@ -36,5 +36,5 @@
 .integrantes_container .integrantes_content .integrantes_list {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 4rem;
+  gap: 1.5rem;
 }/*# sourceMappingURL=Integrantes.module.css.map */

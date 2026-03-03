@@ -1,5 +1,5 @@
 .nav_container {
-  background-color: rgb(248, 153, 29);
+  background-color: white;
   width: 100%;
 }
 .nav_container .nav_content {
@@ -17,8 +17,8 @@
   gap: 5rem;
 }
 .nav_container .nav_content .list_nav a {
-  padding: 0.7rem;
-  color: #fff;
+  padding: 0.2rem;
+  color: rgb(248, 153, 29);
   font-size: 1.1rem;
   font-weight: 600;
   transition: 0.3s ease-in-out;

@@ -1,5 +1,4 @@
 import styles from './Home.module.css'
-import Lorax from '../../../assets/lorax SENAC.png'
 
 function Home() {
 
@@ -7,14 +6,16 @@ function Home() {
         <section className={styles.container_home}>
             <div className={styles.content_home}>
                 <div className={styles.text_home}>
+                    <h2>
+                        Rumo à
+                    </h2>
                     <h1>
-                        Os <span>Lorax</span>
+                        conquista
                     </h1>
                     <p>
-                        Aprenda aqui as habilidades essenciais para se destacar no mercado de trabalho como <span>aprendiz</span>!
+                        Minicurso desenvolvido para inserção da juventude no mercado de trabalho
                     </p>
                 </div>
-                <img src={Lorax} alt='Mascote Aprendizagem' />
             </div>
         </section>
     )

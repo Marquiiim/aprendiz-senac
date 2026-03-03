@@ -22,5 +22,10 @@
             width: 90%;
             background-color: rgb(140, 140, 140)
         }
+
+        .podcast_list {
+            display: flex;
+            flex-direction: column;
+        }
     }
 }

@@ -20,4 +20,8 @@
   height: 1px;
   width: 90%;
   background-color: rgb(140, 140, 140);
+}
+.podcasts_container .podcasts_content .podcast_list {
+  display: flex;
+  flex-direction: column;
 }/*# sourceMappingURL=Podcasts.module.css.map */
